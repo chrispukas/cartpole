@@ -1,6 +1,8 @@
 # Cartpole
 
-Please run the following commands, in project root for setup:
+To install this repo, please run the following commands:
 ```
-bash setup.sh
+git clone https://github.com/chrispukas/cartpole.git;
+cd ./cartpole;
+bash setup.sh;
 ```
