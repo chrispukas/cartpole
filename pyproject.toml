@@ -1,0 +1,17 @@
+
+[build-system]
+requires = ["setuptools>=65.5.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cartpole"
+version = "0.1.0"
+description = "Cartpole DQN using gymnasium."
+authors = [{name = "Christopher Pukas", email = "cp824@ic.ac.uk"}]
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["cartpole"]
