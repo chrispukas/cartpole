@@ -14,4 +14,4 @@ license = {text = "MIT"}
 dependencies = []
 
 [tool.setuptools.packages.find]
-where = ["cartpole"]
+where = ["pkg"]

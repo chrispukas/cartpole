@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-cartpole/cartpole.egg-info/PKG-INFO
-cartpole/cartpole.egg-info/SOURCES.txt
-cartpole/cartpole.egg-info/dependency_links.txt
-cartpole/cartpole.egg-info/top_level.txt
-cartpole/src/__init__.py
-cartpole/src/environment.py
